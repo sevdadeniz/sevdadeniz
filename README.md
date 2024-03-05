@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sevda</h1>
-<h3 align="center">I am Junior Mobile Application Developer from Türkiye</h3>
+<h3 align="center">I!m a Junior Mobile Application Developer</h3>
 
 - 🔭 I’m currently working on **Flutter**
 
